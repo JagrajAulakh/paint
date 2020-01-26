@@ -1,5 +1,7 @@
 # Paint Project
 
+<img src="demos/title.gif" width="400">
+
 ## What is it?
 This program is a clone of MS Paint with a Minecraft theme. I designed and programmed it by myself for a school project in high school. The project required us to make a paint program with a twist: we could design the program with any theme we'd like. So I chose the classic video game Minecraft
 
